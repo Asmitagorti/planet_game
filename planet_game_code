@@ -1,3 +1,7 @@
+# 🌟 Special thanks to Simhadri Surada [https://github.com/simhadrisurada] 🌟
+# This project wouldn’t have come together without your help, guidance, and inspiration.
+# Grateful for all your support while building this game!
+
 import tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import ttk
